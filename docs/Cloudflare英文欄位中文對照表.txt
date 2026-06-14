@@ -1,0 +1,48 @@
+Cloudflare 英文欄位中文對照表
+
+頁面：Web Analytics / Metrics 常見欄位
+
+Core Web Vitals = 網站體感指標
+Page load time = 頁面載入時間
+Visits = 來訪次數
+Page views = 頁面瀏覽次數
+
+Largest Contentful Paint (LCP) = 最大內容顯示時間
+Interaction to Next Paint (INP) = 互動後到下一次畫面更新的反應時間
+Cumulative Layout Shift (CLS) = 累積版面位移
+
+Good = 良好
+Needs Improvement = 需要改善
+Poor = 差
+
+URL = 網址
+Browser = 瀏覽器
+Operating system = 作業系統
+Country = 國家
+Element = 元素
+
+Debug View = 除錯檢視
+Counts = 次數
+
+Last 24 hours = 最近 24 小時
+Add filter = 新增篩選
+Print report = 列印報表
+
+Requests = 請求數
+Errors = 錯誤數
+Subrequests = 子請求數
+Request duration = 請求耗時
+Median CPU Time = CPU 中位時間
+
+Success = 成功
+Internal = 內部錯誤
+Script Threw Exception = 程式拋出例外
+Exceeded CPU Time Limits = 超出 CPU 時間限制
+Exceeded Memory = 超出記憶體限制
+Client Disconnected = 用戶端中斷連線
+
+Production = 正式環境
+Deployments = 部署紀錄
+Metrics = 指標
+Settings = 設定
+Custom domains = 自訂網域

@@ -1,10 +1,11 @@
 # nyxveil
 
-這個資料夾已經是 `nyxveil` 可直接部署到 Cloudflare Pages 的最小靜態網站。
+這個資料夾已經整理成 `nyxveil` 的 Cloudflare Pages 專案結構。
 
 ## 目前結構
 
-- `index.html`：首頁
+- `site/index.html`：公開首頁
+- `docs/`：內部說明文件，不應作為網站公開內容
 
 ## 部署方式
 
@@ -14,9 +15,9 @@
 3. 連接該 repository。
 4. 如果是目前這種純靜態網站：
    - `Build command` 留空
-   - `Build output directory` 留空，或依 Cloudflare 畫面使用根目錄
+   - `Build output directory` 使用 `site`
 5. 部署完成後即可取得免費預設網址，預期會像 `https://nyxveil.pages.dev`。
 
 ## 本機修改
 
-直接編輯 `index.html` 即可。
+直接編輯 `site/index.html` 即可。
