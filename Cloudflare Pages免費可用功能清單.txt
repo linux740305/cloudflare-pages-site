@@ -1,0 +1,40 @@
+Cloudflare Pages 免費可用功能清單
+
+專案：nyxveil
+正式網址：https://nyxveil.pages.dev
+
+目前可直接用的免費功能：
+
+1. pages.dev 正式網址
+- 不用買網域。
+- 建好就能直接公開上線。
+
+2. GitHub 自動部署
+- GitHub repo 有新內容推上去後，可自動重新部署。
+- 適合現在這種靜態網站。
+
+3. Deployments
+- 可看每一次部署紀錄。
+- 可檢查有沒有部署成功。
+
+4. 預覽網址
+- 每次部署都會有一個獨立預覽網址。
+- 正式站還沒確認前，可以先用這個測試。
+
+5. Metrics
+- 可查看基本流量與請求狀況。
+- 先用免費內建資訊就夠。
+
+6. Custom domains
+- 如果你自己有網域，可以綁進來。
+- 目前沒有也沒關係，先用 `nyxveil.pages.dev` 就好。
+
+7. Settings
+- 可改專案基本設定。
+- 可看 build、deploy、Git 連線等設定。
+
+目前最適合你的做法：
+- 先固定用 `https://nyxveil.pages.dev`
+- 先用 GitHub 自動部署
+- 先把首頁內容改成正式版
+- Custom domain 先不要動
